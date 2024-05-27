@@ -38,3 +38,15 @@ console.log(typeof rollNo);
 let rollNoInString = String(rollNo);
 console.log(rollNoInString);
 console.log(typeof rollNoInString);
+
+/************* Operations *************/
+
+let val = 3;
+let negativeValue = -val;
+
+console.log(val);
+console.log(negativeValue);
+
+console.log(true);
+console.log(+true);
+console.log(1+true);
